@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304012450137",
+    "project_id": "my-mind-2dacb",
+    "storage_bucket": "my-mind-2dacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304012450137:android:19289cbfd5b7ca9ede5448",
+        "android_client_info": {
+          "package_name": "com.example.mymind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3nH_zD1rQOLvijXsFuXXUTodAMBm_x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304012450137:android:b3909b944b89c490de5448",
+        "android_client_info": {
+          "package_name": "fr.eurecom.firebaseintro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn3nH_zD1rQOLvijXsFuXXUTodAMBm_x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
