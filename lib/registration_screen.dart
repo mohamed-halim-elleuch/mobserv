@@ -62,6 +62,13 @@ class RegistrationScreenState extends State<RegistrationScreen> {
               onPressed: register,
               child: const Text("Register"),
             ),
+            const SizedBox(height: 8.0),
+            TextButton(
+              onPressed: () {
+                Navigator.pushReplacementNamed(context, '/login');
+              },
+              child: const Text("Already have an account? Login here."),
+            ),
           ],
         ),
       ),
